@@ -1,0 +1,155 @@
+{
+    "template": {
+        "value": "import-base"
+    },
+    "valid-act": {
+        "value": "auto"
+    },
+    "recovery-link": {
+        "value": ""
+    },
+    "import-info": {
+        "value": {
+            "import_page": "https:\/\/artemd.ca\/wp-admin\/admin.php?page=duplicator-pro-import",
+            "recovery_page": "\/wp-admin\/admin.php?page=duplicator-pro-tools&tab=recovery",
+            "recovery_is_out_to_date": true,
+            "recovery_package_life": -1,
+            "color-scheme": {
+                "name": "Default",
+                "url": false,
+                "colors": [
+                    "#1d2327",
+                    "#2c3338",
+                    "#2271b1",
+                    "#72aee6"
+                ],
+                "icon_colors": {
+                    "base": "#a7aaad",
+                    "focus": "#72aee6",
+                    "current": "#fff"
+                }
+            },
+            "color-primary-button": "#2271b1"
+        }
+    },
+    "db-display-overwarn": {
+        "value": false
+    },
+    "cpnl-can-sel": {
+        "value": false
+    },
+    "view_mode": {
+        "value": "basic"
+    },
+    "url_new": {
+        "value": "https:\/\/artemd.ca",
+        "formStatus": "st_infoonly"
+    },
+    "path_new": {
+        "value": "\/var\/www\/production\/ruscanfloor\/",
+        "formStatus": "st_infoonly"
+    },
+    "dbhost": {
+        "value": "localhost",
+        "formStatus": "st_infoonly"
+    },
+    "dbname": {
+        "value": "wordpress_db",
+        "formStatus": "st_infoonly"
+    },
+    "dbuser": {
+        "value": "wordpress_user",
+        "formStatus": "st_infoonly"
+    },
+    "dbpass": {
+        "value": "w2}g4X$\u00a31(%a",
+        "formStatus": "st_infoonly"
+    },
+    "dbcharset": {
+        "value": "utf8mb4"
+    },
+    "dbcollate": {
+        "value": ""
+    },
+    "ovr_site_data": {
+        "value": {
+            "dupVersion": "4.5.19",
+            "wpVersion": "6.6.2",
+            "dbhost": "localhost",
+            "dbname": "wordpress_db",
+            "dbuser": "wordpress_user",
+            "dbpass": "w2}g4X$\u00a31(%a",
+            "table_prefix": "wp_",
+            "restUrl": "https:\/\/artemd.ca\/index.php\/wp-json\/",
+            "restNonce": "5bac10d8e2",
+            "restAuthUser": "",
+            "restAuthPassword": "",
+            "ustatIdentifier": "8y951sEepA4vPBfVhQaNaFDbPsG1Rb,-_7eim_weE=mR",
+            "isMultisite": false,
+            "subdomain": false,
+            "subsites": [
+                {
+                    "id": 1,
+                    "domain": "artemd.ca",
+                    "path": "\/",
+                    "blogname": "RusCanFloor",
+                    "blog_prefix": "wp_",
+                    "filteredTables": [],
+                    "adminUsers": [
+                        {
+                            "ID": "1",
+                            "user_login": "artemd",
+                            "id": "1"
+                        }
+                    ],
+                    "fullHomeUrl": "https:\/\/artemd.ca",
+                    "fullSiteUrl": "https:\/\/artemd.ca",
+                    "uploadPath": "wp-content\/uploads",
+                    "fullUploadPath": "\/var\/www\/production\/ruscanfloor\/wp-content\/uploads",
+                    "fullUploadSafePath": "\/var\/www\/production\/ruscanfloor\/wp-content\/uploads",
+                    "fullUploadUrl": "https:\/\/artemd.ca\/wp-content\/uploads",
+                    "filteredPaths": []
+                }
+            ],
+            "nextSubsiteIdAI": -1,
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "artemd",
+                    "id": "1"
+                }
+            ],
+            "paths": {
+                "home": "\/var\/www\/production\/ruscanfloor\/",
+                "abs": "\/var\/www\/production\/ruscanfloor\/",
+                "wpconfig": "\/var\/www\/production\/ruscanfloor",
+                "wpcontent": "\/var\/www\/production\/ruscanfloor\/wp-content",
+                "uploads": "\/var\/www\/production\/ruscanfloor\/wp-content\/uploads",
+                "plugins": "\/var\/www\/production\/ruscanfloor\/wp-content\/plugins",
+                "muplugins": "\/var\/www\/production\/ruscanfloor\/wp-content\/mu-plugins",
+                "themes": "\/var\/www\/production\/ruscanfloor\/wp-content\/themes"
+            },
+            "urls": {
+                "home": "https:\/\/artemd.ca",
+                "abs": "https:\/\/artemd.ca",
+                "login": "https:\/\/artemd.ca\/wp-login.php",
+                "wpcontent": "https:\/\/artemd.ca\/wp-content",
+                "uploads": "https:\/\/artemd.ca\/wp-content\/uploads",
+                "plugins": "https:\/\/artemd.ca\/wp-content\/plugins",
+                "muplugins": "https:\/\/artemd.ca\/wp-content\/mu-plugins",
+                "themes": "https:\/\/artemd.ca\/wp-content\/themes"
+            },
+            "dupLicense": 8,
+            "loggedUser": {
+                "id": 1,
+                "ID": 1,
+                "user_login": "artemd"
+            },
+            "packagesTableExists": true,
+            "removeFilters": {
+                "dirs": [],
+                "files": []
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+[Sep 13 09:43:53] 
+[Sep 13 09:43:53] ==DUPLICATOR INSTALLER BOOTSTRAP v4.5.19==
+[Sep 13 09:43:53] ----------------------------------------------------
+[Sep 13 09:43:53] Installer bootstrap start
+[Sep 13 09:43:53] Target dir dup folder \"/var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613\"
+[Sep 13 09:43:53] Manual extract found so not going to extract /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613 dir
+[Sep 13 09:43:53] EXTRACT /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613 dir
+[Sep 13 09:43:53] Successfully deleted the file /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/dup-installer-log__[HASH].txt
+[Sep 13 09:43:53] NOTICE: Didn't need to extract the installer.
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/addons<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/api<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/assets<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/classes<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/ctrls<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/favicon<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/libs<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/original_files_[HASH]<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/src<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/templates<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/vendor<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/vendor-prefixed<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/dup-archive__[HASH].txt<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/dup-installer-csrf__[HASH].txt<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/dup-installer-notices__[HASH].json<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/dup-params__[HASH].json<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/dup-scan__[HASH].json<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/dup-scanned-dirs__[HASH].txt<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/dup-scanned-files__[HASH].txt<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/index.php<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/main.installer.php<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/php_error__[HASH].log<br/>
+[Sep 13 09:43:53] Set permissions of /var/www/production/ruscanfloor/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/renamed_09132024093347.htaccess<br/>
+[Sep 13 09:43:53] DONE: No detected errors so redirecting to the main installer. Main Installer URI = https://artemd.ca/wp-content/backups-dup-pro/imports/dup-installer-d50cce6-13070613/main.installer.php
